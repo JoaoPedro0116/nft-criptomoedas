@@ -1,0 +1,23 @@
+@media (max-width: 400px) {
+    nav{
+        display: flex;
+        justify-content: flex-start;
+        margin: 15px;
+    }
+    .box-text {
+      justify-content: center;
+      margin: 0;
+    }
+    .box-text p {
+        font-size: 12px;
+    }
+    #img-nft{
+        display: flex;
+        justify-content: center;
+        width: 200px;
+        margin-top: 50px;
+    }
+        #nav-center, #explore{
+            display: none;
+        }
+  }
